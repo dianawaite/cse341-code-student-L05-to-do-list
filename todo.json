@@ -1,0 +1,29 @@
+{
+  "task": {
+    "taskName": "Dishes",
+    "taskImportance": "Medium",
+    "taskCategory": "Household",
+    "taskStartDate": "1/27/2023",
+    "taskDueDate": "1/30/2023",
+    "taskCompletedDate": "1/29/2023",
+    "taskCompletedBy": "Diana"
+  },
+  "task2": {
+    "taskName": "Laundry",
+    "taskImportance": "High",
+    "taskCategory": "Household",
+    "taskStartDate": "1/27/2023",
+    "taskDueDate": "2/1/2023",
+    "taskCompletedDate": "1/29/2023",
+    "taskCompletedBy": "Gertrude"
+  },
+  "task3": {
+    "taskName": "Read C# Homework",
+    "taskImportance": "Low",
+    "taskCategory": "Schoolwork",
+    "taskStartDate": "1/27/2023",
+    "taskDueDate": "2/2/2023",
+    "taskCompletedDate": "2/1/2023",
+    "taskCompletedBy": "Diana"
+  }
+}
